@@ -1,0 +1,6 @@
+線上測試SQL網址：
+https://www.w3schools.com/sql/trysql.asp?filename=trysql_op_in
+
+create database if not exists orders;
+
+drop database orders;

@@ -1,0 +1,8 @@
+PK：primary key 主键
+NN：not null 不能為空值
+UQ：unique 唯一索引
+BIN：binary 二進位制的資料
+UN：unsigned 沒有符號（非負數）
+ZF：zero fill 填充0 例如欄位資料是1 int(4), 则内容显示为0001  
+AI：auto increment 自動增加
+G:這一列是由其他列計算出來的

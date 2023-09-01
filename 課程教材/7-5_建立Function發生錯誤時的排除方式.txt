@@ -1,0 +1,6 @@
+若同學在執行課程範例SQL時產生錯誤訊息,錯誤代碼為1418時可使用以下方式排除
+請在workbench上直接執行以下這行SQL
+set global log_bin_trust_function_creators=1;
+然後看一下這個變數log_bin_trust_function_creators的value是否已經變成ON
+show variables like 'log_bin_trust_function_creators';
+最後請在執行一次課程範例上的SQL即可

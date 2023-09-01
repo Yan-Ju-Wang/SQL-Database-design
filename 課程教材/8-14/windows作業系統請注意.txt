@@ -1,0 +1,2 @@
+
+若您是使用windows作業系統，請在https://dev.mysql.com/downloads/connector/j/下載JDBC driver時請選擇independent platform選項，如有其他JDBC Driver路徑設定與其他錯誤訊息發生，請先瀏覽單元55「第8章課程補充」影片，謝謝

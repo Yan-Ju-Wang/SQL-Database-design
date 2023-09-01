@@ -1,0 +1,5 @@
+勘誤：
+
+請同學留意在最後的ER Diagram解說中，
+Transcation與Payment兩個table之間的關係應該是多對1，
+所以這條關係線是要反過來才對，請同學留意，謝謝
